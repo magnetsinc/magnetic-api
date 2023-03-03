@@ -10,7 +10,7 @@ links:
   - name: '#magnetic'
     type: CHAT_CHANNEL
     url: 'https://magnetsinc.slack.com/archives/C049E2AUHRC'
-  - name: ''
+  - name: 'Jira'
     type: PROJECT
     url: 'https://magnetsinc.atlassian.net/browse/MAG'
   - name: Architecture overview
