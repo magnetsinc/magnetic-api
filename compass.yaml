@@ -42,13 +42,13 @@ links:
     type: OTHER_LINK
     url: 'https://compass-magnets.app.opsgenie.com/service/788fee36-b6c0-4ef3-9d01-f38890574e6f/status'
 customFields:
-  - name: Data encrypted in transit?
+  - name: "Data encrypted in transit?"
     type: text
     value: yes
-  - name: Data encrypted at rest?
+  - name: "Data encrypted at rest?"
     type: text
     value: yes
-  - name: Last security review
+  - name: "Last security review"
     type: text
     value: '2023'
 relationships:
