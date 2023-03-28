@@ -47,7 +47,7 @@ customFields:
     value: yes
   - name: "Data encrypted at rest?"
     type: text
-    value: yes
+    value: n/a
   - name: "Last security review"
     type: text
     value: '2023-03-27'
