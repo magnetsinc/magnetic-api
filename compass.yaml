@@ -45,6 +45,12 @@ customFields:
   - name: Data encrypted in transit?
     type: text
     value: yes
+  - name: Data encrypted at rest?
+    type: text
+    value: yes
+  - name: Last security review
+    type: text
+    value: 2023
 relationships:
   DEPENDS_ON:
     - 'ari:cloud:compass:7d7a1354-b50b-4f1e-b409-1f3c509aea99:component/910c34fb-0e18-40c8-8568-c31a5cefb046/4e560f2b-cc3d-4735-9407-a2d494459d5e'
