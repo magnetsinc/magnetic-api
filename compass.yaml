@@ -22,16 +22,16 @@ links:
     url: "https://magnetsinc.atlassian.net/browse/MAG"
   - name: Architecture overview
     type: DOCUMENT
-    url: "https://magnetsinc.atlassian.net/wiki/spaces/MAGNETIC/overview"
+    url: "https://magnetsinc.atlassian.net/wiki/spaces/MAGNETIC/pages/19955713/Architecture+overview"
   - name: Runbook
     type: DOCUMENT
-    url: "https://magnetsinc.atlassian.net/wiki/spaces/MAGNETIC/overview"
+    url: "https://magnetsinc.atlassian.net/wiki/spaces/MAGNETIC/pages/20054017/Runbook"
   - name: API design specs
     type: DOCUMENT
-    url: "https://magnetsinc.atlassian.net/wiki/spaces/MAGNETIC/overview"
+    url: "https://magnetsinc.atlassian.net/wiki/spaces/MAGNETIC/pages/20119553/API+design+specs"
   - name: Endpoint contracts
     type: DOCUMENT
-    url: "https://magnetsinc.atlassian.net/wiki/spaces/MAGNETIC/overview"
+    url: "https://magnetsinc.atlassian.net/wiki/spaces/MAGNETIC/pages/20152321/Endpoint+contracts"
   - name: Observability Dashboard
     type: DASHBOARD
     url: "https://app.datadoghq.com/dashboard/v43-thf-yrv/dashboard"
