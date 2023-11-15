@@ -41,6 +41,9 @@ links:
   - name: Opsgenie service
     type: OTHER_LINK
     url: "https://compass-magnets.app.opsgenie.com/service/788fee36-b6c0-4ef3-9d01-f38890574e6f/status"
+  - name: LaunchDarkly flags
+    type: OTHER_LINK
+    url: "https://app.launchdarkly.com/default/production/features?state=live&tag=compass.magnetic-api"
 customFields:
   - name: "Data encrypted in transit?"
     type: text
