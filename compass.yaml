@@ -32,7 +32,7 @@ links:
   - name: Endpoint contracts
     type: DOCUMENT
     url: "https://magnetsinc.atlassian.net/wiki/spaces/MAGNETIC/pages/20152321/Endpoint+contracts"
-  - name: Observability Dashboard
+  - name: Observability dashboard
     type: DASHBOARD
     url: "https://app.datadoghq.com/dashboard/v43-thf-yrv/dashboard"
   - name: On call schedule
