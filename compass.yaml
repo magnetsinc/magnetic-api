@@ -20,6 +20,9 @@ links:
   - name: "Jira"
     type: PROJECT
     url: "https://magnetsinc.atlassian.net/browse/MAG"
+  - name: "SonarCloud"
+    type: PROJECT
+    url: "https://sonarcloud.io/project/configuration?id=magnetsinc_magnetic-api"
   - name: Architecture overview
     type: DOCUMENT
     url: "https://magnetsinc.atlassian.net/wiki/spaces/MAGNETIC/pages/19955713/Architecture+overview"
