@@ -3,7 +3,7 @@ name: magnetic-api
 id: "ari:cloud:compass:7d7a1354-b50b-4f1e-b409-1f3c509aea99:component/910c34fb-0e18-40c8-8568-c31a5cefb046/b4bac4a5-df70-4987-b252-d018f7df915e"
 description: API proxy between magnetic-web and backend services.
 typeId: SERVICE
-ownerId: "ari:cloud:teams::team/07f3a1d7-efd4-489c-8f54-d8e19e2f3462"
+ownerId: "ari:cloud:identity::team/5fd459df-2f62-454d-9dee-460938a82c83"
 fields:
   tier: 1
   lifecycle: Active
