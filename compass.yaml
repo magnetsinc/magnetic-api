@@ -14,6 +14,9 @@ labels:
   - magnetic
   - python3
 links:
+  - name: "magnetsinc/magnetic-api"
+    type: REPOSITORY
+    url: "https://github.com/magnetsinc/magnetic-api"
   - name: "#magnetic"
     type: CHAT_CHANNEL
     url: "https://magnetsinc.slack.com/archives/C049E2AUHRC"
