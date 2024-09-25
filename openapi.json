@@ -734,6 +734,11 @@
             "type": "string",
             "description": "pet status in the store",
             "enum": ["available", "pending", "sold"]
+          },
+          "type": {
+            "type": "string",
+            "description": "which type of pet is it",
+            "enum": ["cat", "dog", "fish", "lizard"]
           }
         },
         "xml": { "name": "pet" }
