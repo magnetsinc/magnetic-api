@@ -19,7 +19,7 @@ links:
     url: "https://github.com/magnetsinc/magnetic-api"
   - name: "#magnetic"
     type: CHAT_CHANNEL
-    url: "https://magnetsinc.slack.com/archives/C049E2AUHRC"
+    url: "https://atlassian-rtv7954.slack.com/archives/C08TW9MHLEA"
   - name: "Jira"
     type: PROJECT
     url: "https://magnetsinc.atlassian.net/browse/MAG"
