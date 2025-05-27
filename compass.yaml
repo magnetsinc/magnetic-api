@@ -17,9 +17,6 @@ links:
   - name: "magnetsinc/magnetic-api"
     type: REPOSITORY
     url: "https://github.com/magnetsinc/magnetic-api"
-  - name: "#magnetic-api-support"
-    type: CHAT_CHANNEL
-    url: "https://atlassian.enterprise.slack.com/archives/C08U5HLLWSY"
   - name: "Jira"
     type: PROJECT
     url: "https://magnetsinc.atlassian.net/browse/MAG"
